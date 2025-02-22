@@ -10,3 +10,11 @@ Using this middle end, when client sends a request we will be able to make decis
 
 We will prepare an API Gateway for this middle end.
 
+# Different Microservices
+
+- Flight Search Service  https://github.com/Sk9singh/FlightService
+- Flight Booking Service  https://github.com/Sk9singh/BookingServices
+- Authentication Service  https://github.com/Sk9singh/Flight_Auth_Services
+- Flight Reminder Service https://github.com/Sk9singh/RemainderService
+  
+
